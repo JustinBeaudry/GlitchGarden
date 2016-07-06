@@ -2,39 +2,45 @@
 using UnityEngine.UI;
 using System.Collections.Generic;
 
+[RequireComponent (typeof(SettingsManager))]
 public class MenuController : MonoBehaviour
 {
-
+	public Button StartButton, SettingsButton, QuitButton;
 	private MusicPlayer musicPlayer;
-	Dictionary<string, System.Action> menuActions = new Dictionary<string, System.Action> ();
+
+	void Awake ()
+	{
+		GameObject MusicPlayerObject = GameObject.Find ("MusicPlayer");
+		if (MusicPlayerObject != null) {
+			musicPlayer = MusicPlayerObject.GetComponent<MusicPlayer> ();
+		}
+	}
 
 	void Start ()
 	{
 		GameManager.InitGame ();
-		musicPlayer = GameObject.Find ("MusicPlayer").GetComponent<MusicPlayer> ();
-		musicPlayer.ChangeAudio ("Menu");
-
-		menuActions.Add ("Start", OnStart);
-		menuActions.Add ("Settings", OnSettings);
-		menuActions.Add ("Quit", OnQuit);
-
-		foreach (Transform child in GameObject.Find("Menu").transform) {
-			Button button = child.gameObject.GetComponent<Button> ();
-			System.Action action = menuActions [child.gameObject.name];
-			button.onClick.AddListener (delegate {
-				action ();
-			});
+		if (musicPlayer != null) {
+			musicPlayer.ChangeAudio ("Main_Menu");
 		}
+		BindActionHandlers ();
+	}
+
+	void BindActionHandlers ()
+	{
+		StartButton.onClick.AddListener (OnStart);
+		SettingsButton.onClick.AddListener (OnSettings);
+		QuitButton.onClick.AddListener (OnQuit);
 	}
 
 	void OnStart ()
 	{
-		GameManager.SwitchScene ("Level_01");
+		GameManager.SwitchScene (SettingsManager.CurrentLevel);
 	}
 
 	void OnSettings ()
 	{
-		GameManager.SwitchScene ("Settings");
+		print ("Settings");
+		GameManager.LoadSceneAdditive ("Settings");
 	}
 
 	void OnQuit ()

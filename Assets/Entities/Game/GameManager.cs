@@ -9,7 +9,6 @@ public class GameManager : MonoBehaviour
 
 	private string currentSceneName;
 	private string nextSceneName;
-	private int nextSceneIndex;
 	private AsyncOperation resourceUnloadTask;
 	private AsyncOperation sceneLoadTask;
 	private static SceneState sceneState;
@@ -36,15 +35,11 @@ public class GameManager : MonoBehaviour
 
 	;
 
-	//
-	//				Public Static Methods
-	//
-
 	// Called from each scenes Singleton
 	public static void InitGame (string scene = "Main")
 	{
 		if (!StartedFromMain) {
-			if (SceneManager.GetActiveScene ().name == scene) {
+			if (SceneManager.GetActiveScene ().name == "Main") {
 				StartedFromMain = true;
 			} else {
 				SceneManager.LoadScene (scene);
@@ -54,68 +49,33 @@ public class GameManager : MonoBehaviour
 
 	public static void SwitchScene (string scene, bool fade = true)
 	{
-		if (fade) {
-			gameManager.StartCoroutine (TransitionScene (scene));
-		} else {
-			_SwitchScene (scene);
-		}
-	}
-
-	public static void LoadScene (string scene, bool fade = false)
-	{
 		if (gameManager != null) {
 			if (fade) {
 				gameManager.StartCoroutine (TransitionScene (scene));
 			} else {
 				_SwitchScene (scene);
-			}		
-		}
-	}
-
-	public static void SwitchToPreviousScene (bool fade = true)
-	{
-		print ("SwitchToPreviousScene()");
-		if (gameManager != null) {
-			Scene scene = SceneManager.GetActiveScene ();
-			int prevIndex = scene.buildIndex - 1;
-			if (prevIndex <= SceneManager.sceneCountInBuildSettings && prevIndex >= 0) {
-				SwitchSceneByIndex (prevIndex, fade);
 			}
-
 		}
 	}
 
-	public static void SwitchToNextScene (bool fade = true)
+	public static void LoadSceneAdditive (string scene)
 	{
 		if (gameManager != null) {
-			Scene scene = SceneManager.GetActiveScene ();
-			int nextIndex = scene.buildIndex + 1;
-			if (nextIndex <= SceneManager.sceneCountInBuildSettings && nextIndex >= 0) {	
-				SwitchSceneByIndex (nextIndex, fade);
-			}
-		}	
-	}
-
-	//
-	//				Private Static Methods
-	//
-
-	private static void SwitchSceneByIndex (int scene, bool fade = true)
-	{
-		if (fade) {
-			gameManager.StartCoroutine (TransitionSceneByIndex (scene));
-		} else {
-			_SwitchSceneByIndex (scene);
+			SceneManager.LoadScene (scene, LoadSceneMode.Additive);
 		}
 	}
 
-	private static void _SwitchSceneByIndex (int scene)
+	public static void UnloadSceneAdditive (string scene)
 	{
-		if (gameManager != null && SceneManager.GetActiveScene ().buildIndex != scene) {
-			gameManager.nextSceneName = null;
-			gameManager.nextSceneIndex = scene;
-			sceneState = SceneState.Reset;
+		if (gameManager != null) {
+			SceneManager.UnloadScene (scene);
 		}
+
+	}
+
+	public float GetSceneLoadProgress ()
+	{
+		return sceneLoadTask.progress;
 	}
 
 	protected static IEnumerator TransitionScene (string scene)
@@ -125,17 +85,9 @@ public class GameManager : MonoBehaviour
 		_SwitchScene (scene);
 	}
 
-	protected static IEnumerator TransitionSceneByIndex (int scene)
-	{
-		float fadeTime = gameManager.fading.BeginFade (1);
-		yield return new WaitForSeconds (fadeTime);
-		_SwitchSceneByIndex (scene);
-	}
-
 	private static void _SwitchScene (string scene)
 	{
 		if (gameManager != null && gameManager.currentSceneName != scene) {
-			gameManager.nextSceneIndex = -1;
 			gameManager.nextSceneName = scene;
 			sceneState = SceneState.Reset;	
 		}	
@@ -155,12 +107,8 @@ public class GameManager : MonoBehaviour
 
 		yield return new WaitForSeconds (fadeSpeed);
 
-		_SwitchScene ("Menu");
+		_SwitchScene ("Main_Menu");
 	}
-
-	//
-	//				Unity Hooks
-	//
 
 	protected void Awake ()
 	{
@@ -218,9 +166,7 @@ public class GameManager : MonoBehaviour
 	private void UpdateScenePreload ()
 	{
 		print ("[INFO] Preload()");
-		if (nextSceneIndex > -1) {
-			sceneLoadTask = SceneManager.LoadSceneAsync (nextSceneIndex);
-		} else {
+		if (nextSceneName != null) {
 			sceneLoadTask = SceneManager.LoadSceneAsync (nextSceneName);
 		}
 		sceneState = SceneState.Load;
@@ -229,12 +175,11 @@ public class GameManager : MonoBehaviour
 	private void UpdateSceneLoad ()
 	{
 		print ("[INFO] Load()");
-		if (sceneLoadTask.isDone) {
+		if (sceneLoadTask != null && sceneLoadTask.isDone) {
 			sceneState = SceneState.Unload;
 		} else {
 			// update scene loading process
 		}
-
 	}
 
 	private void UpdateSceneUnload ()
@@ -268,8 +213,6 @@ public class GameManager : MonoBehaviour
 	private void UpdateSceneRun ()
 	{
 		if (currentSceneName != nextSceneName) {
-			sceneState = SceneState.Reset;
-		} else if (SceneManager.GetActiveScene ().buildIndex != nextSceneIndex) {
 			sceneState = SceneState.Reset;
 		}
 	}

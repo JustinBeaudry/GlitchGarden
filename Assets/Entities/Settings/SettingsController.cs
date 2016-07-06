@@ -1,77 +1,69 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
-using System.Collections.Generic;
 
+[RequireComponent (typeof(SettingsManager))]
 public class SettingsController : MonoBehaviour
 {
-
-	private SettingsManager settings;
-	private Dictionary<string, System.Action> buttonActions = new Dictionary<string, System.Action> ();
-	private Dictionary<string, System.Action<float>> sliderActions = new Dictionary<string, System.Action<float>> ();
-	private Dictionary<string, string> settingsToControls = new Dictionary<string, string> ();
-
-	public string musicVolumeControl = "Music Volume Control";
-	public string gameVolumeControl = "Game Volume Control";
-	public string back = "Back";
+	public Slider MusicVolumeSlider, GameVolumeSlider, DifficultySlider;
+	public Button DefaultsButton, BackButton;
 
 	void Start ()
 	{
-		GameManager.InitGame ("Settings");
-
-		settings = GameObject.Find ("SettingsManager").GetComponent<SettingsManager> ();
-
-		settingsToControls.Add (musicVolumeControl, "musicVolume");
-		settingsToControls.Add (gameVolumeControl, "gameVolume");
-
-		sliderActions.Add (musicVolumeControl, OnMusicVolumeChange);
-		sliderActions.Add (gameVolumeControl, OnGameVolumeChange);
-		buttonActions.Add (back, OnBack);
-
-		foreach (Transform child in GameObject.Find("Settings").transform) {
-			if (child.gameObject.GetComponent<Button> () != null && buttonActions.ContainsKey (child.gameObject.name)) {
-				Button button = child.gameObject.GetComponent<Button> ();	
-				System.Action action = buttonActions [child.gameObject.name];
-				ButtonActionHandler (button, action);
-
-			} else if (child.gameObject.GetComponent<Slider> () != null && sliderActions.ContainsKey (child.gameObject.name)) {
-				Slider slider = child.gameObject.GetComponent<Slider> ();
-				// For each slider set the current slider.value from the appropriate settings
-				string settingName = settingsToControls [child.gameObject.name];
-				slider.value = settings.GetVolumeSettingByName (settingName);
-				System.Action<float> action = sliderActions [child.gameObject.name];
-				SliderActionHandler (slider, action);
-			}
-		}
+		// @NOTE:  This scene is additively loaded to other scenes
+		UpdateUI ();
+		BindActionHandlers ();
 	}
 
-	void SliderActionHandler (Slider slider, System.Action<float> action)
+	private void BindActionHandlers ()
 	{
-		// @TODO:  Control Settings can go here	
-		slider.onValueChanged.AddListener (delegate {
-			action (slider.value);
+		MusicVolumeSlider.onValueChanged.AddListener (delegate {
+			OnMusicVolumeChange (MusicVolumeSlider.value);
 		});
-	}
 
-	void ButtonActionHandler (Button button, System.Action action)
-	{
-		// @TODO:  Control Settings can go here	
-		button.onClick.AddListener (delegate {
-			action ();
+		GameVolumeSlider.onValueChanged.AddListener (delegate {
+			OnGameVolumeChange (GameVolumeSlider.value);
 		});
+
+		DifficultySlider.onValueChanged.AddListener (delegate {
+			OnDifficultyChange (DifficultySlider.value);
+		});
+
+		DefaultsButton.onClick.AddListener (OnDefault);
+		BackButton.onClick.AddListener (OnBack);
 	}
 
-	void OnBack ()
+	private void UpdateUI ()
 	{
-		GameManager.SwitchToPreviousScene ();
+		MusicVolumeSlider.value = SettingsManager.MusicVolume;
+		GameVolumeSlider.value = SettingsManager.GameVolume;
+		DifficultySlider.value = SettingsManager.Difficulty;
 	}
 
-	void OnMusicVolumeChange (float value)
+	private void OnDefault ()
 	{
-		settings.musicVolume = value;
+		SettingsManager.SetToDefaults ();
+		UpdateUI ();
+
 	}
 
-	void OnGameVolumeChange (float value)
+	private void OnBack ()
 	{
-		settings.gameVolume = value;
+		SettingsManager.SaveAll ();
+		GameManager.UnloadSceneAdditive ("Settings");
+	}
+
+	private void OnMusicVolumeChange (float value)
+	{
+		SettingsManager.MusicVolume = value;
+	}
+
+	private void OnGameVolumeChange (float value)
+	{
+		SettingsManager.GameVolume = value;
+	}
+
+	private void OnDifficultyChange (float value)
+	{
+		SettingsManager.Difficulty = (int)value;
 	}
 }

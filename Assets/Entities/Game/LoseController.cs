@@ -1,35 +1,41 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
-using System.Collections.Generic;
 
+[RequireComponent (typeof(SettingsManager))]
+// @TODO:  Move this logic to the menu and have conditions for when to display particular UI elements
 public class LoseController : MonoBehaviour
 {
 
+	public Button RetryButton, SettingsButton, QuitButton;
 	private MusicPlayer musicPlayer;
-	Dictionary<string, System.Action> menuActions = new Dictionary<string, System.Action> ();
+
+	void Awake ()
+	{
+		GameObject MusicPlayerObject = GameObject.Find ("MusicPlayer");
+		if (MusicPlayerObject != null) {
+			musicPlayer = MusicPlayerObject.GetComponent<MusicPlayer> ();
+		}
+	}
 
 	void Start ()
 	{
 		GameManager.InitGame ();
-		musicPlayer = GameObject.Find ("MusicPlayer").GetComponent<MusicPlayer> ();
-		musicPlayer.ChangeAudio ("Lose");
-
-		menuActions.Add ("Retry", OnStart);
-		menuActions.Add ("Settings", OnSettings);
-		menuActions.Add ("Quit", OnQuit);
-
-		foreach (Transform child in GameObject.Find("Menu").transform) {
-			Button button = child.gameObject.GetComponent<Button> ();
-			System.Action action = menuActions [child.gameObject.name];
-			button.onClick.AddListener (delegate {
-				action ();
-			});
+		if (musicPlayer != null) {
+			musicPlayer.ChangeAudio ("Lose");
 		}
+		BindActionHandlers ();
 	}
 
-	void OnStart ()
+	void BindActionHandlers ()
 	{
-		GameManager.SwitchScene ("Level_01");
+		RetryButton.onClick.AddListener (OnRetry);
+		SettingsButton.onClick.AddListener (OnSettings);
+		QuitButton.onClick.AddListener (OnQuit);
+	}
+
+	void OnRetry ()
+	{
+		GameManager.SwitchScene (SettingsManager.CurrentLevel);
 	}
 
 	void OnSettings ()

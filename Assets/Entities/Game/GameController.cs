@@ -1,29 +1,40 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
-using System.Collections.Generic;
 
+[RequireComponent (typeof(SettingsManager))]
 public class GameController : MonoBehaviour
 {
 
 	private MusicPlayer musicPlayer;
-	private Dictionary<string, System.Action> controls = new Dictionary<string, System.Action> ();
+	bool DisplayingGameMenu = false;
+
+	void Awake ()
+	{
+		GameObject MusicPlayerObject = GameObject.Find ("MusicPlayer");
+		if (MusicPlayerObject != null) {
+			musicPlayer = MusicPlayerObject.GetComponent<MusicPlayer> ();
+		}
+	}
 
 	void Start ()
 	{
-		GameManager.InitGame ("Level_01");
-		musicPlayer = GameObject.Find ("MusicPlayer").GetComponent<MusicPlayer> ();
-		musicPlayer.ChangeAudio ("Level_01");
-
-		controls.Add ("Win", OnWin);
-		controls.Add ("Lose", OnLose);
-
-		foreach (Transform child in GameObject.Find("Controls").transform) {
-			Button button = child.gameObject.GetComponent<Button> ();
-			System.Action action = controls [child.gameObject.name];
-			button.onClick.AddListener (delegate {
-				action ();
-			});
+		GameManager.InitGame ();
+		if (musicPlayer != null) {
+			musicPlayer.ChangeAudio (SettingsManager.CurrentLevel);
 		}
+	}
+
+	void Update ()
+	{
+		// @TODO:  Move this to PlayerControlsManager
+		if (Input.GetKey (KeyCode.Escape) && !DisplayingGameMenu) {
+			GameManager.LoadSceneAdditive ("Game_Menu");
+		}
+	}
+
+	public void UpdateGameMenuDisplayState (bool state)
+	{
+		DisplayingGameMenu = state;
 	}
 
 	void OnWin ()
