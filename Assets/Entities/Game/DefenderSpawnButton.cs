@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Linq;
 using System.Collections.Generic;
 
@@ -9,7 +10,7 @@ public class DefenderSpawnButton : MonoBehaviour
 
 	private static List<GameObject> Buttons;
 	private bool Enabled = true;
-	private SpriteRenderer sprite;
+	private Image sprite;
 
 	void Awake ()
 	{
@@ -29,7 +30,7 @@ public class DefenderSpawnButton : MonoBehaviour
 
 	void Start ()
 	{
-		sprite = GetComponent<SpriteRenderer> ();
+		sprite = GetComponent<Image> ();
 		sprite.color = Color.gray;
 	}
 

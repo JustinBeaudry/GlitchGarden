@@ -39,7 +39,6 @@ public class MenuController : MonoBehaviour
 
 	void OnSettings ()
 	{
-		print ("Settings");
 		GameManager.LoadSceneAdditive ("Settings");
 	}
 

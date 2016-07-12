@@ -22,7 +22,8 @@ public class GameController : MonoBehaviour
 
 	void Start ()
 	{
-		GameManager.InitGame ();
+		GameState = GameStates.Play;
+		//GameManager.InitGame ();
 		Player.Stars = Player.DEFAULT_STARS;
 		if (musicPlayer != null) {
 			musicPlayer.ChangeAudio (SettingsManager.CurrentLevel);
@@ -34,6 +35,12 @@ public class GameController : MonoBehaviour
 		// @TODO:  Move this to PlayerControlsManager
 		if (Input.GetKey (KeyCode.Escape)) {
 			OpenGameMenu ();
+		}
+
+		if (GameState == GameStates.Pause) {
+			Time.timeScale = 0;
+		} else if (GameState == GameStates.Play) {
+			Time.timeScale = 1;
 		}
 	}
 

@@ -14,6 +14,7 @@ public class GameMenuController : MonoBehaviour
 
 	void Start ()
 	{
+		gameController.Pause ();
 		gameController.UpdateGameMenuDisplayState (true);
 		BindActionHandlers ();
 	}
@@ -29,6 +30,7 @@ public class GameMenuController : MonoBehaviour
 	{
 		GameManager.UnloadSceneAdditive ("Game_Menu");
 		gameController.UpdateGameMenuDisplayState (false);
+		gameController.Play ();
 	}
 
 	void OnSettings ()

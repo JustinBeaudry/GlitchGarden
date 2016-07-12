@@ -6,7 +6,8 @@ public class GameTimer : MonoBehaviour
 
 	public float LevelSeconds = 100f;
 
-	private Slider slider;
+	private float TimeRemaining = 0f;
+	private Text text;
 	private AudioSource audioSource;
 	private GameController game;
 	private MusicPlayer musicPlayer;
@@ -14,7 +15,7 @@ public class GameTimer : MonoBehaviour
 
 	void Start ()
 	{
-		slider = GetComponent<Slider> ();
+		text = GetComponent<Text> ();
 		audioSource = GetComponent<AudioSource> ();
 		game = FindObjectOfType<GameController> ();
 		musicPlayer = FindObjectOfType<MusicPlayer> ();
@@ -22,7 +23,13 @@ public class GameTimer : MonoBehaviour
 
 	void Update ()
 	{
-		slider.value = Time.timeSinceLevelLoad / LevelSeconds;
+		TimeRemaining = LevelSeconds -= Time.deltaTime;
+
+		string minutes = Mathf.Abs (Mathf.Floor (TimeRemaining / 60)).ToString ("00");
+		string seconds = Mathf.Abs (Mathf.Floor (TimeRemaining % 60)).ToString ("00");
+
+		text.text = minutes + ":" + seconds;
+
 		if (Time.timeSinceLevelLoad >= LevelSeconds && !GameOver) {
 			GameOver = true;
 			musicPlayer.StopAudio ();

@@ -4,7 +4,7 @@ using UnityEngine.UI;
 [RequireComponent (typeof(SettingsManager))]
 public class SettingsController : MonoBehaviour
 {
-	public Slider MusicVolumeSlider, GameVolumeSlider, DifficultySlider;
+	public Slider MusicVolumeSlider, GameVolumeSlider;
 	public Button DefaultsButton, BackButton;
 
 	void Start ()
@@ -24,10 +24,6 @@ public class SettingsController : MonoBehaviour
 			OnGameVolumeChange (GameVolumeSlider.value);
 		});
 
-		DifficultySlider.onValueChanged.AddListener (delegate {
-			OnDifficultyChange (DifficultySlider.value);
-		});
-
 		DefaultsButton.onClick.AddListener (OnDefault);
 		BackButton.onClick.AddListener (OnBack);
 	}
@@ -36,7 +32,6 @@ public class SettingsController : MonoBehaviour
 	{
 		MusicVolumeSlider.value = SettingsManager.MusicVolume;
 		GameVolumeSlider.value = SettingsManager.GameVolume;
-		DifficultySlider.value = SettingsManager.Difficulty;
 	}
 
 	private void OnDefault ()
@@ -60,10 +55,5 @@ public class SettingsController : MonoBehaviour
 	private void OnGameVolumeChange (float value)
 	{
 		SettingsManager.GameVolume = value;
-	}
-
-	private void OnDifficultyChange (float value)
-	{
-		SettingsManager.Difficulty = (int)value;
 	}
 }
