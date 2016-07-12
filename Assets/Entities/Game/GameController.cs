@@ -23,7 +23,7 @@ public class GameController : MonoBehaviour
 	void Start ()
 	{
 		GameState = GameStates.Play;
-		//GameManager.InitGame ();
+		GameManager.InitGame ();
 		Player.Stars = Player.DEFAULT_STARS;
 		if (musicPlayer != null) {
 			musicPlayer.ChangeAudio (SettingsManager.CurrentLevel);

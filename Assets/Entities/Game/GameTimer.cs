@@ -30,7 +30,7 @@ public class GameTimer : MonoBehaviour
 
 		text.text = minutes + ":" + seconds;
 
-		if (Time.timeSinceLevelLoad >= LevelSeconds && !GameOver) {
+		if (Mathf.Approximately (TimeRemaining, 0) && !GameOver) {
 			GameOver = true;
 			musicPlayer.StopAudio ();
 			audioSource.Play ();
