@@ -11,10 +11,7 @@ public class WinController : MonoBehaviour
 
 	void Awake ()
 	{
-		GameObject MusicPlayerObject = GameObject.Find ("MusicPlayer");
-		if (MusicPlayerObject != null) {
-			musicPlayer = MusicPlayerObject.GetComponent<MusicPlayer> ();
-		}
+		musicPlayer = FindObjectOfType<MusicPlayer> ();
 	}
 
 	void Start ()

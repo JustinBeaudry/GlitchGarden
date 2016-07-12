@@ -1,0 +1,1065 @@
+fileFormatVersion: 2
+guid: 30c3ec678257502469db2f7e9dac5c95
+timeCreated: 1467863089
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: butterfly_0
+    21300002: butterfly_1
+    21300004: butterfly_2
+    21300006: butterfly_3
+    21300008: butterfly_4
+    21300010: butterfly_5
+    21300012: butterfly_6
+    21300014: butterfly_7
+    21300016: butterfly_8
+    21300018: butterfly_9
+    21300020: butterfly_10
+    21300022: butterfly_11
+    21300024: butterfly_12
+    21300026: butterfly_13
+    21300028: butterfly_14
+    21300030: butterfly_15
+    21300032: butterfly_16
+    21300034: butterfly_17
+    21300036: butterfly_18
+    21300038: butterfly_19
+    21300040: butterfly_20
+    21300042: butterfly_21
+    21300044: butterfly_22
+    21300046: butterfly_23
+    21300048: butterfly_24
+    21300050: butterfly_25
+    21300052: butterfly_26
+    21300054: butterfly_27
+    21300056: butterfly_28
+    21300058: butterfly_29
+    21300060: butterfly_30
+    21300062: butterfly_31
+    21300064: butterfly_32
+    21300066: butterfly_33
+    21300068: butterfly_34
+    21300070: butterfly_35
+    21300072: butterfly_36
+    21300074: butterfly_37
+    21300076: butterfly_38
+    21300078: butterfly_39
+    21300080: butterfly_40
+    21300082: butterfly_41
+    21300084: butterfly_42
+    21300086: butterfly_43
+    21300088: butterfly_44
+    21300090: butterfly_45
+    21300092: butterfly_46
+    21300094: butterfly_47
+    21300096: butterfly_48
+    21300098: butterfly_49
+    21300100: butterfly_50
+    21300102: butterfly_51
+    21300104: butterfly_52
+    21300106: butterfly_53
+    21300108: butterfly_54
+    21300110: butterfly_55
+    21300112: butterfly_56
+    21300114: butterfly_57
+    21300116: butterfly_58
+    21300118: butterfly_59
+    21300120: butterfly_60
+    21300122: butterfly_61
+    21300124: butterfly_62
+    21300126: butterfly_63
+    21300128: butterfly_64
+    21300130: butterfly_65
+    21300132: butterfly_66
+    21300134: butterfly_67
+    21300136: butterfly_68
+    21300138: butterfly_69
+    21300140: butterfly_70
+    21300142: butterfly_71
+    21300144: butterfly_72
+    21300146: butterfly_73
+    21300148: butterfly_74
+    21300150: butterfly_75
+    21300152: butterfly_76
+    21300154: butterfly_77
+    21300156: butterfly_78
+    21300158: butterfly_79
+    21300160: butterfly_80
+    21300162: butterfly_81
+    21300164: butterfly_82
+    21300166: butterfly_83
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.33
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: butterfly_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 343
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 344
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 344
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 342
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 333
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_5
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 326
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_6
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 325
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_7
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 326
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_8
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 334
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_9
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 339
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_10
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 342
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_11
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 344
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_12
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 343
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_13
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 344
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 279
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 277
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 268
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 261
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_18
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 260
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_19
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 261
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_20
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 269
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 274
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_22
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 277
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_23
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 279
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_24
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 278
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_25
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 279
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_26
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 279
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_27
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 277
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_28
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 203
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_29
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 196
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_30
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 195
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_31
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 196
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_32
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 204
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_33
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 209
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_34
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 212
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_35
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 214
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 213
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_37
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 214
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_38
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 214
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_39
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 212
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_40
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 203
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_41
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 196
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_42
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 130
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_43
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 131
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_44
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 139
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_45
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 144
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_46
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 147
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_47
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 149
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_48
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 148
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_49
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 149
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_50
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 149
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_51
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 147
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_52
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 138
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_53
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 131
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_54
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 130
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_55
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 131
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_56
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 74
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_57
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 79
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_58
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 82
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_59
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 84
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_60
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 83
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_61
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 84
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_62
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 84
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_63
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 82
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_64
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 73
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_65
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 66
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_66
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 65
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_67
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 66
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_68
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 74
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_69
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 79
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_70
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 17
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_71
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 19
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_72
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 18
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_73
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 19
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_74
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 19
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_75
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 17
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_76
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 8
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_77
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_78
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_79
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_80
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 9
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_81
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 14
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_82
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 17
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: butterfly_83
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 19
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

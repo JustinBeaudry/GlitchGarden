@@ -57,6 +57,11 @@ public class MusicPlayer : MonoBehaviour
 		}
 	}
 
+	public void StopAudio ()
+	{
+		audioSrc.Stop ();
+	}
+
 
 	protected void OnDestroy ()
 	{

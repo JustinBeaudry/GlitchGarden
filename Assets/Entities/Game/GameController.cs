@@ -1,24 +1,29 @@
 ﻿using UnityEngine;
-using UnityEngine.UI;
 
 [RequireComponent (typeof(SettingsManager))]
 public class GameController : MonoBehaviour
 {
+	public enum GameStates
+	{
+		Play,
+		Pause}
+
+	;
+
+	public GameStates GameState;
 
 	private MusicPlayer musicPlayer;
-	bool DisplayingGameMenu = false;
+	private bool DisplayingGameMenu = false;
 
 	void Awake ()
 	{
-		GameObject MusicPlayerObject = GameObject.Find ("MusicPlayer");
-		if (MusicPlayerObject != null) {
-			musicPlayer = MusicPlayerObject.GetComponent<MusicPlayer> ();
-		}
+		musicPlayer = FindObjectOfType<MusicPlayer> ();
 	}
 
 	void Start ()
 	{
 		GameManager.InitGame ();
+		Player.Stars = Player.DEFAULT_STARS;
 		if (musicPlayer != null) {
 			musicPlayer.ChangeAudio (SettingsManager.CurrentLevel);
 		}
@@ -27,9 +32,26 @@ public class GameController : MonoBehaviour
 	void Update ()
 	{
 		// @TODO:  Move this to PlayerControlsManager
-		if (Input.GetKey (KeyCode.Escape) && !DisplayingGameMenu) {
-			GameManager.LoadSceneAdditive ("Game_Menu");
+		if (Input.GetKey (KeyCode.Escape)) {
+			OpenGameMenu ();
 		}
+	}
+
+	public void Play ()
+	{
+		GameState = GameStates.Play;
+	}
+
+	public void Pause ()
+	{
+		GameState = GameStates.Pause;
+	}
+
+	public void OpenGameMenu ()
+	{
+		if (!DisplayingGameMenu) {
+			GameManager.LoadSceneAdditive ("Game_Menu");
+		}	
 	}
 
 	public void UpdateGameMenuDisplayState (bool state)
@@ -37,12 +59,12 @@ public class GameController : MonoBehaviour
 		DisplayingGameMenu = state;
 	}
 
-	void OnWin ()
+	public void Win ()
 	{
 		GameManager.SwitchScene ("Win");
 	}
 
-	void OnLose ()
+	public void Lose ()
 	{
 		GameManager.SwitchScene ("Lose");
 	}

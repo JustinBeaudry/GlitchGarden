@@ -1,0 +1,1317 @@
+fileFormatVersion: 2
+guid: d082b8c4d102dfb40a79ae078b5713d6
+timeCreated: 1467849122
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rainbow_0
+    21300002: rainbow_1
+    21300004: rainbow_2
+    21300006: rainbow_3
+    21300008: rainbow_4
+    21300010: rainbow_5
+    21300012: rainbow_6
+    21300014: rainbow_7
+    21300016: rainbow_8
+    21300018: rainbow_9
+    21300020: rainbow_10
+    21300022: rainbow_11
+    21300024: rainbow_12
+    21300026: rainbow_13
+    21300028: rainbow_14
+    21300030: rainbow_15
+    21300032: rainbow_16
+    21300034: rainbow_17
+    21300036: rainbow_18
+    21300038: rainbow_19
+    21300040: rainbow_20
+    21300042: rainbow_21
+    21300044: rainbow_22
+    21300046: rainbow_23
+    21300048: rainbow_24
+    21300050: rainbow_25
+    21300052: rainbow_26
+    21300054: rainbow_27
+    21300056: rainbow_28
+    21300058: rainbow_29
+    21300060: rainbow_30
+    21300062: rainbow_31
+    21300064: rainbow_32
+    21300066: rainbow_33
+    21300068: rainbow_34
+    21300070: rainbow_35
+    21300072: rainbow_36
+    21300074: rainbow_37
+    21300076: rainbow_38
+    21300078: rainbow_39
+    21300080: rainbow_40
+    21300082: rainbow_41
+    21300084: rainbow_42
+    21300086: rainbow_43
+    21300088: rainbow_44
+    21300090: rainbow_45
+    21300092: rainbow_46
+    21300094: rainbow_47
+    21300096: rainbow_48
+    21300098: rainbow_49
+    21300100: rainbow_50
+    21300102: rainbow_51
+    21300104: rainbow_52
+    21300106: rainbow_53
+    21300108: rainbow_54
+    21300110: rainbow_55
+    21300112: rainbow_56
+    21300114: rainbow_57
+    21300116: rainbow_58
+    21300118: rainbow_59
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.33
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: rainbow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1184
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: -74}
+        - {x: 61, y: -74}
+        - {x: 69, y: -71}
+        - {x: 69, y: -35}
+        - {x: 24, y: 48}
+        - {x: 0, y: 74}
+        - {x: -38, y: 74}
+        - {x: -69, y: 9}
+    - name: rainbow_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1184
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: -74}
+        - {x: 61, y: -74}
+        - {x: 69, y: -71}
+        - {x: 69, y: -35}
+        - {x: 24, y: 48}
+        - {x: 0, y: 74}
+        - {x: -38, y: 74}
+        - {x: -69, y: 9}
+    - name: rainbow_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1184
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: -74}
+        - {x: 61, y: -74}
+        - {x: 69, y: -71}
+        - {x: 69, y: -28}
+        - {x: 32, y: 55}
+        - {x: 8, y: 74}
+        - {x: -39, y: 74}
+        - {x: -69, y: 3}
+    - name: rainbow_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1184
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 74}
+        - {x: -24, y: 74}
+        - {x: -47, y: 56}
+        - {x: -69, y: -9}
+        - {x: -69, y: -73}
+        - {x: -64, y: -74}
+        - {x: 65, y: -74}
+        - {x: 69, y: -69}
+        - {x: 69, y: -56}
+        - {x: 65, y: -50}
+    - name: rainbow_4
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1184
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: -38}
+        - {x: 24, y: 48}
+        - {x: 8, y: 74}
+        - {x: -34, y: 74}
+        - {x: -69, y: -40}
+        - {x: -69, y: -57}
+        - {x: -53, y: -74}
+        - {x: 65, y: -74}
+        - {x: 69, y: -69}
+        - {x: 69, y: -56}
+        - {x: 65, y: -50}
+    - name: rainbow_5
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1184
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 74}
+        - {x: -69, y: 3}
+        - {x: -69, y: -74}
+        - {x: 69, y: -74}
+        - {x: 69, y: -28}
+        - {x: 10, y: 74}
+    - name: rainbow_6
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1184
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 74}
+        - {x: -69, y: -37}
+        - {x: -69, y: -62}
+        - {x: -54, y: -74}
+        - {x: 65, y: -74}
+        - {x: 69, y: -69}
+        - {x: 69, y: -6}
+        - {x: 9, y: 74}
+    - name: rainbow_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1036
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 74}
+        - {x: -38, y: 74}
+        - {x: -69, y: 9}
+        - {x: -69, y: -73}
+        - {x: -66, y: -74}
+        - {x: 69, y: -74}
+        - {x: 69, y: -22}
+        - {x: 24, y: 60}
+    - name: rainbow_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1036
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 74}
+        - {x: -17, y: 74}
+        - {x: -27, y: 64}
+        - {x: -33, y: 49}
+        - {x: -34, y: 9}
+        - {x: -69, y: -34}
+        - {x: -69, y: -74}
+        - {x: 69, y: -74}
+        - {x: 69, y: 2}
+        - {x: 41, y: 59}
+    - name: rainbow_9
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1036
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 74}
+        - {x: -37, y: 50}
+        - {x: -69, y: -21}
+        - {x: -69, y: -73}
+        - {x: -65, y: -74}
+        - {x: 65, y: -74}
+        - {x: 69, y: -68}
+        - {x: 69, y: -50}
+        - {x: 16, y: 74}
+    - name: rainbow_10
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1036
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 74}
+        - {x: -28, y: 67}
+        - {x: -69, y: -23}
+        - {x: -69, y: -73}
+        - {x: -65, y: -74}
+        - {x: 66, y: -74}
+        - {x: 69, y: -71}
+        - {x: 69, y: -50}
+        - {x: 13, y: 74}
+    - name: rainbow_11
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1036
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 48}
+        - {x: 0, y: 74}
+        - {x: -17, y: 74}
+        - {x: -26, y: 65}
+        - {x: -33, y: 50}
+        - {x: -69, y: -25}
+        - {x: -69, y: -73}
+        - {x: -65, y: -74}
+        - {x: 65, y: -74}
+        - {x: 69, y: -68}
+        - {x: 69, y: -54}
+        - {x: 48, y: -40}
+    - name: rainbow_12
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1036
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 55}
+        - {x: 1, y: 74}
+        - {x: -27, y: 74}
+        - {x: -36, y: 51}
+        - {x: -69, y: -22}
+        - {x: -69, y: -73}
+        - {x: -65, y: -74}
+        - {x: 65, y: -74}
+        - {x: 69, y: -68}
+        - {x: 69, y: -54}
+        - {x: 48, y: -40}
+    - name: rainbow_13
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1036
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: -74}
+        - {x: 69, y: -74}
+        - {x: 69, y: -6}
+        - {x: 8, y: 74}
+        - {x: -18, y: 74}
+        - {x: -31, y: 69}
+        - {x: -69, y: -28}
+    - name: rainbow_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 888
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 48}
+        - {x: 4, y: 74}
+        - {x: -21, y: 74}
+        - {x: -34, y: 72}
+        - {x: -69, y: -30}
+        - {x: -69, y: -65}
+        - {x: -47, y: -74}
+        - {x: 61, y: -74}
+        - {x: 69, y: -66}
+        - {x: 69, y: -57}
+        - {x: 47, y: -42}
+    - name: rainbow_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 888
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 49}
+        - {x: 11, y: 74}
+        - {x: -23, y: 74}
+        - {x: -33, y: 71}
+        - {x: -69, y: -19}
+        - {x: -69, y: -72}
+        - {x: -63, y: -74}
+        - {x: 65, y: -74}
+        - {x: 69, y: -68}
+        - {x: 69, y: -54}
+        - {x: 48, y: -40}
+    - name: rainbow_16
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 888
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 48}
+        - {x: 7, y: 74}
+        - {x: -18, y: 74}
+        - {x: -37, y: 50}
+        - {x: -69, y: -22}
+        - {x: -69, y: -73}
+        - {x: -66, y: -74}
+        - {x: 65, y: -74}
+        - {x: 69, y: -68}
+        - {x: 69, y: -54}
+        - {x: 48, y: -40}
+    - name: rainbow_17
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 888
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 74}
+        - {x: -36, y: 74}
+        - {x: -69, y: -13}
+        - {x: -69, y: -73}
+        - {x: -64, y: -74}
+        - {x: 65, y: -74}
+        - {x: 69, y: -68}
+        - {x: 69, y: -48}
+        - {x: 38, y: 54}
+    - name: rainbow_18
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 888
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: 74}
+        - {x: -69, y: -72}
+        - {x: -62, y: -74}
+        - {x: 65, y: -74}
+        - {x: 69, y: -68}
+        - {x: 69, y: 68}
+        - {x: 53, y: 74}
+    - name: rainbow_19
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 888
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 47}
+        - {x: 3, y: 74}
+        - {x: -17, y: 74}
+        - {x: -36, y: 51}
+        - {x: -69, y: -23}
+        - {x: -69, y: -73}
+        - {x: -64, y: -74}
+        - {x: 65, y: -74}
+        - {x: 69, y: -68}
+        - {x: 69, y: -54}
+        - {x: 48, y: -40}
+    - name: rainbow_20
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 888
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 74}
+        - {x: -33, y: 73}
+        - {x: -69, y: -23}
+        - {x: -69, y: -68}
+        - {x: -57, y: -74}
+        - {x: 65, y: -74}
+        - {x: 69, y: -68}
+        - {x: 69, y: -50}
+        - {x: 16, y: 74}
+    - name: rainbow_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 740
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 49}
+        - {x: 6, y: 74}
+        - {x: -16, y: 74}
+        - {x: -35, y: 51}
+        - {x: -69, y: -23}
+        - {x: -69, y: -73}
+        - {x: -64, y: -74}
+        - {x: 65, y: -74}
+        - {x: 69, y: -68}
+        - {x: 69, y: -54}
+        - {x: 48, y: -40}
+    - name: rainbow_22
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 740
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 74}
+        - {x: -39, y: 51}
+        - {x: -69, y: -19}
+        - {x: -69, y: -73}
+        - {x: -66, y: -74}
+        - {x: 67, y: -74}
+        - {x: 69, y: -73}
+        - {x: 69, y: -42}
+        - {x: 20, y: 74}
+    - name: rainbow_23
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 740
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 74}
+        - {x: -69, y: -5}
+        - {x: -69, y: -74}
+        - {x: 69, y: -74}
+        - {x: 69, y: -27}
+        - {x: 15, y: 74}
+    - name: rainbow_24
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 740
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 74}
+        - {x: -39, y: 52}
+        - {x: -69, y: -19}
+        - {x: -69, y: -73}
+        - {x: -66, y: -74}
+        - {x: 69, y: -74}
+        - {x: 69, y: -20}
+        - {x: 17, y: 74}
+    - name: rainbow_25
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 740
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 74}
+        - {x: -39, y: 74}
+        - {x: -69, y: -31}
+        - {x: -69, y: -65}
+        - {x: -55, y: -74}
+        - {x: 66, y: -74}
+        - {x: 69, y: -70}
+        - {x: 69, y: -21}
+        - {x: 65, y: 8}
+    - name: rainbow_26
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 740
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 74}
+        - {x: -69, y: -6}
+        - {x: -69, y: -74}
+        - {x: 69, y: -74}
+        - {x: 69, y: -20}
+        - {x: 17, y: 74}
+    - name: rainbow_27
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 740
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 74}
+        - {x: -28, y: 74}
+        - {x: -39, y: 52}
+        - {x: -69, y: -20}
+        - {x: -69, y: -73}
+        - {x: -67, y: -74}
+        - {x: 69, y: -74}
+        - {x: 69, y: -22}
+        - {x: 33, y: 56}
+    - name: rainbow_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 52}
+        - {x: 6, y: 74}
+        - {x: -16, y: 74}
+        - {x: -35, y: 50}
+        - {x: -69, y: -41}
+        - {x: -69, y: -62}
+        - {x: -54, y: -74}
+        - {x: 66, y: -74}
+        - {x: 69, y: -70}
+        - {x: 69, y: -56}
+        - {x: 64, y: -51}
+    - name: rainbow_29
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 592
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: -43}
+        - {x: 19, y: 53}
+        - {x: 6, y: 74}
+        - {x: -18, y: 74}
+        - {x: -38, y: 51}
+        - {x: -69, y: -23}
+        - {x: -69, y: -70}
+        - {x: -59, y: -74}
+        - {x: 66, y: -74}
+        - {x: 69, y: -70}
+        - {x: 69, y: -56}
+        - {x: 64, y: -51}
+    - name: rainbow_30
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 592
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 52}
+        - {x: 6, y: 74}
+        - {x: -16, y: 74}
+        - {x: -35, y: 50}
+        - {x: -69, y: -41}
+        - {x: -69, y: -62}
+        - {x: -54, y: -74}
+        - {x: 66, y: -74}
+        - {x: 69, y: -70}
+        - {x: 69, y: -56}
+        - {x: 64, y: -51}
+    - name: rainbow_31
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 592
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 74}
+        - {x: -69, y: 6}
+        - {x: -69, y: -73}
+        - {x: -67, y: -74}
+        - {x: 69, y: -74}
+        - {x: 69, y: 10}
+        - {x: 18, y: 74}
+    - name: rainbow_32
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 592
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44, y: 74}
+        - {x: -69, y: 10}
+        - {x: -69, y: -74}
+        - {x: 69, y: -74}
+        - {x: 69, y: -37}
+        - {x: 14, y: 74}
+    - name: rainbow_33
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 592
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 74}
+        - {x: -33, y: 73}
+        - {x: -69, y: 17}
+        - {x: -69, y: -73}
+        - {x: -64, y: -74}
+        - {x: 69, y: -74}
+        - {x: 69, y: -20}
+        - {x: 17, y: 74}
+    - name: rainbow_34
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 592
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 74}
+        - {x: -34, y: 74}
+        - {x: -69, y: -24}
+        - {x: -69, y: -69}
+        - {x: -59, y: -74}
+        - {x: 66, y: -74}
+        - {x: 69, y: -70}
+        - {x: 69, y: -56}
+        - {x: 64, y: -51}
+    - name: rainbow_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 74}
+        - {x: -69, y: -5}
+        - {x: -69, y: -74}
+        - {x: 69, y: -74}
+        - {x: 69, y: -20}
+        - {x: 17, y: 74}
+    - name: rainbow_36
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 444
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 74}
+        - {x: -69, y: -6}
+        - {x: -69, y: -74}
+        - {x: 69, y: -74}
+        - {x: 69, y: -28}
+        - {x: 4, y: 74}
+    - name: rainbow_37
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 444
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 74}
+        - {x: -39, y: 74}
+        - {x: -69, y: -4}
+        - {x: -69, y: -74}
+        - {x: 69, y: -74}
+        - {x: 69, y: -49}
+        - {x: 33, y: 53}
+    - name: rainbow_38
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 444
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 74}
+        - {x: -69, y: -18}
+        - {x: -69, y: -73}
+        - {x: -66, y: -74}
+        - {x: 65, y: -74}
+        - {x: 69, y: -68}
+        - {x: 69, y: -50}
+        - {x: 15, y: 74}
+    - name: rainbow_39
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 444
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 74}
+        - {x: -33, y: 73}
+        - {x: -69, y: -23}
+        - {x: -69, y: -68}
+        - {x: -57, y: -74}
+        - {x: 65, y: -74}
+        - {x: 69, y: -68}
+        - {x: 69, y: -50}
+        - {x: 16, y: 74}
+    - name: rainbow_40
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 444
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 49}
+        - {x: 6, y: 74}
+        - {x: -15, y: 74}
+        - {x: -24, y: 65}
+        - {x: -35, y: 51}
+        - {x: -69, y: -24}
+        - {x: -69, y: -73}
+        - {x: -64, y: -74}
+        - {x: 65, y: -74}
+        - {x: 69, y: -68}
+        - {x: 69, y: -54}
+        - {x: 48, y: -40}
+    - name: rainbow_41
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 444
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 47}
+        - {x: 9, y: 74}
+        - {x: -18, y: 74}
+        - {x: -31, y: 69}
+        - {x: -69, y: -20}
+        - {x: -69, y: -73}
+        - {x: -64, y: -74}
+        - {x: 65, y: -74}
+        - {x: 69, y: -68}
+        - {x: 69, y: -54}
+        - {x: 48, y: -40}
+    - name: rainbow_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 74}
+        - {x: -36, y: 74}
+        - {x: -69, y: -13}
+        - {x: -69, y: -73}
+        - {x: -64, y: -74}
+        - {x: 65, y: -74}
+        - {x: 69, y: -68}
+        - {x: 69, y: -48}
+        - {x: 38, y: 54}
+    - name: rainbow_43
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 296
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 48}
+        - {x: 7, y: 74}
+        - {x: -18, y: 74}
+        - {x: -37, y: 50}
+        - {x: -69, y: -22}
+        - {x: -69, y: -73}
+        - {x: -66, y: -74}
+        - {x: 65, y: -74}
+        - {x: 69, y: -68}
+        - {x: 69, y: -54}
+        - {x: 48, y: -40}
+    - name: rainbow_44
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 296
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 74}
+        - {x: -19, y: 74}
+        - {x: -36, y: 51}
+        - {x: -69, y: -22}
+        - {x: -69, y: -73}
+        - {x: -65, y: -74}
+        - {x: 69, y: -74}
+        - {x: 69, y: -28}
+        - {x: 24, y: 47}
+    - name: rainbow_45
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 296
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 48}
+        - {x: 1, y: 74}
+        - {x: -20, y: 74}
+        - {x: -37, y: 51}
+        - {x: -69, y: -16}
+        - {x: -69, y: -74}
+        - {x: 61, y: -74}
+        - {x: 69, y: -66}
+        - {x: 69, y: -57}
+        - {x: 47, y: -42}
+    - name: rainbow_46
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 296
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: 48}
+        - {x: 5, y: 74}
+        - {x: -24, y: 74}
+        - {x: -37, y: 72}
+        - {x: -69, y: -21}
+        - {x: -69, y: -68}
+        - {x: -57, y: -74}
+        - {x: 65, y: -74}
+        - {x: 69, y: -68}
+        - {x: 69, y: -54}
+        - {x: 48, y: -40}
+    - name: rainbow_47
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 296
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 74}
+        - {x: -38, y: 52}
+        - {x: -69, y: -41}
+        - {x: -69, y: -62}
+        - {x: -54, y: -74}
+        - {x: 65, y: -74}
+        - {x: 69, y: -68}
+        - {x: 69, y: -50}
+        - {x: 12, y: 74}
+    - name: rainbow_48
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 296
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 48}
+        - {x: 0, y: 74}
+        - {x: -17, y: 74}
+        - {x: -26, y: 65}
+        - {x: -33, y: 50}
+        - {x: -69, y: -25}
+        - {x: -69, y: -73}
+        - {x: -65, y: -74}
+        - {x: 65, y: -74}
+        - {x: 69, y: -68}
+        - {x: 69, y: -54}
+        - {x: 48, y: -40}
+    - name: rainbow_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 74}
+        - {x: -32, y: 70}
+        - {x: -69, y: -19}
+        - {x: -69, y: -73}
+        - {x: -64, y: -74}
+        - {x: 65, y: -74}
+        - {x: 69, y: -68}
+        - {x: 69, y: -50}
+        - {x: 18, y: 74}
+    - name: rainbow_50
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 148
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 74}
+        - {x: -38, y: 74}
+        - {x: -69, y: -21}
+        - {x: -69, y: -57}
+        - {x: -53, y: -74}
+        - {x: 65, y: -74}
+        - {x: 69, y: -69}
+        - {x: 69, y: -48}
+        - {x: 68, y: -46}
+    - name: rainbow_51
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 148
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 74}
+        - {x: -28, y: 66}
+        - {x: -69, y: -39}
+        - {x: -69, y: -64}
+        - {x: -55, y: -74}
+        - {x: 69, y: -74}
+        - {x: 69, y: -28}
+        - {x: 13, y: 74}
+    - name: rainbow_52
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 148
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 74}
+        - {x: -28, y: 74}
+        - {x: -32, y: 68}
+        - {x: -69, y: -24}
+        - {x: -69, y: -69}
+        - {x: -58, y: -74}
+        - {x: 69, y: -74}
+        - {x: 69, y: -22}
+        - {x: 24, y: 60}
+    - name: rainbow_53
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 148
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 74}
+        - {x: -50, y: 74}
+        - {x: -69, y: 43}
+        - {x: -69, y: -73}
+        - {x: -64, y: -74}
+        - {x: 69, y: -74}
+        - {x: 69, y: -23}
+        - {x: 30, y: 51}
+    - name: rainbow_54
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 148
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 74}
+        - {x: -69, y: 3}
+        - {x: -69, y: -74}
+        - {x: 69, y: -74}
+        - {x: 69, y: -28}
+        - {x: 10, y: 74}
+    - name: rainbow_55
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 148
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: -38}
+        - {x: 24, y: 48}
+        - {x: 8, y: 74}
+        - {x: -34, y: 74}
+        - {x: -69, y: -40}
+        - {x: -69, y: -57}
+        - {x: -53, y: -74}
+        - {x: 65, y: -74}
+        - {x: 69, y: -69}
+        - {x: 69, y: -56}
+        - {x: 65, y: -50}
+    - name: rainbow_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 74}
+        - {x: -24, y: 74}
+        - {x: -47, y: 56}
+        - {x: -69, y: -9}
+        - {x: -69, y: -73}
+        - {x: -64, y: -74}
+        - {x: 65, y: -74}
+        - {x: 69, y: -69}
+        - {x: 69, y: -56}
+        - {x: 65, y: -50}
+    - name: rainbow_57
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: -74}
+        - {x: 61, y: -74}
+        - {x: 69, y: -71}
+        - {x: 69, y: -28}
+        - {x: 32, y: 55}
+        - {x: 8, y: 74}
+        - {x: -39, y: 74}
+        - {x: -69, y: 3}
+    - name: rainbow_58
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: -74}
+        - {x: 61, y: -74}
+        - {x: 69, y: -71}
+        - {x: 69, y: -35}
+        - {x: 24, y: 48}
+        - {x: 0, y: 74}
+        - {x: -38, y: 74}
+        - {x: -69, y: 9}
+    - name: rainbow_59
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 138
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: -74}
+        - {x: 61, y: -74}
+        - {x: 69, y: -71}
+        - {x: 69, y: -35}
+        - {x: 24, y: 48}
+        - {x: 0, y: 74}
+        - {x: -38, y: 74}
+        - {x: -69, y: 9}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

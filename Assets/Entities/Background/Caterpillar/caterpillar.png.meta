@@ -1,0 +1,8540 @@
+fileFormatVersion: 2
+guid: 547089ee53903914e92ee455944e9249
+timeCreated: 1467863521
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: caterpillar_0
+    21300002: caterpillar_1
+    21300004: caterpillar_2
+    21300006: caterpillar_3
+    21300008: caterpillar_4
+    21300010: caterpillar_5
+    21300012: caterpillar_6
+    21300014: caterpillar_7
+    21300016: caterpillar_8
+    21300018: caterpillar_9
+    21300020: caterpillar_10
+    21300022: caterpillar_11
+    21300024: caterpillar_12
+    21300026: caterpillar_13
+    21300028: caterpillar_14
+    21300030: caterpillar_15
+    21300032: caterpillar_16
+    21300034: caterpillar_17
+    21300036: caterpillar_18
+    21300038: caterpillar_19
+    21300040: caterpillar_20
+    21300042: caterpillar_21
+    21300044: caterpillar_22
+    21300046: caterpillar_23
+    21300048: caterpillar_24
+    21300050: caterpillar_25
+    21300052: caterpillar_26
+    21300054: caterpillar_27
+    21300056: caterpillar_28
+    21300058: caterpillar_29
+    21300060: caterpillar_30
+    21300062: caterpillar_31
+    21300064: caterpillar_32
+    21300066: caterpillar_33
+    21300068: caterpillar_34
+    21300070: caterpillar_35
+    21300072: caterpillar_36
+    21300074: caterpillar_37
+    21300076: caterpillar_38
+    21300078: caterpillar_39
+    21300080: caterpillar_40
+    21300082: caterpillar_41
+    21300084: caterpillar_42
+    21300086: caterpillar_43
+    21300088: caterpillar_44
+    21300090: caterpillar_45
+    21300092: caterpillar_46
+    21300094: caterpillar_47
+    21300096: caterpillar_48
+    21300098: caterpillar_49
+    21300100: caterpillar_50
+    21300102: caterpillar_51
+    21300104: caterpillar_52
+    21300106: caterpillar_53
+    21300108: caterpillar_54
+    21300110: caterpillar_55
+    21300112: caterpillar_56
+    21300114: caterpillar_57
+    21300116: caterpillar_58
+    21300118: caterpillar_59
+    21300120: caterpillar_60
+    21300122: caterpillar_61
+    21300124: caterpillar_62
+    21300126: caterpillar_63
+    21300128: caterpillar_64
+    21300130: caterpillar_65
+    21300132: caterpillar_66
+    21300134: caterpillar_67
+    21300136: caterpillar_68
+    21300138: caterpillar_69
+    21300140: caterpillar_70
+    21300142: caterpillar_71
+    21300144: caterpillar_72
+    21300146: caterpillar_73
+    21300148: caterpillar_74
+    21300150: caterpillar_75
+    21300152: caterpillar_76
+    21300154: caterpillar_77
+    21300156: caterpillar_78
+    21300158: caterpillar_79
+    21300160: caterpillar_80
+    21300162: caterpillar_81
+    21300164: caterpillar_82
+    21300166: caterpillar_83
+    21300168: caterpillar_84
+    21300170: caterpillar_85
+    21300172: caterpillar_86
+    21300174: caterpillar_87
+    21300176: caterpillar_88
+    21300178: caterpillar_89
+    21300180: caterpillar_90
+    21300182: caterpillar_91
+    21300184: caterpillar_92
+    21300186: caterpillar_93
+    21300188: caterpillar_94
+    21300190: caterpillar_95
+    21300192: caterpillar_96
+    21300194: caterpillar_97
+    21300196: caterpillar_98
+    21300198: caterpillar_99
+    21300200: caterpillar_100
+    21300202: caterpillar_101
+    21300204: caterpillar_102
+    21300206: caterpillar_103
+    21300208: caterpillar_104
+    21300210: caterpillar_105
+    21300212: caterpillar_106
+    21300214: caterpillar_107
+    21300216: caterpillar_108
+    21300218: caterpillar_109
+    21300220: caterpillar_110
+    21300222: caterpillar_111
+    21300224: caterpillar_112
+    21300226: caterpillar_113
+    21300228: caterpillar_114
+    21300230: caterpillar_115
+    21300232: caterpillar_116
+    21300234: caterpillar_117
+    21300236: caterpillar_118
+    21300238: caterpillar_119
+    21300240: caterpillar_120
+    21300242: caterpillar_121
+    21300244: caterpillar_122
+    21300246: caterpillar_123
+    21300248: caterpillar_124
+    21300250: caterpillar_125
+    21300252: caterpillar_126
+    21300254: caterpillar_127
+    21300256: caterpillar_128
+    21300258: caterpillar_129
+    21300260: caterpillar_130
+    21300262: caterpillar_131
+    21300264: caterpillar_132
+    21300266: caterpillar_133
+    21300268: caterpillar_134
+    21300270: caterpillar_135
+    21300272: caterpillar_136
+    21300274: caterpillar_137
+    21300276: caterpillar_138
+    21300278: caterpillar_139
+    21300280: caterpillar_140
+    21300282: caterpillar_141
+    21300284: caterpillar_142
+    21300286: caterpillar_143
+    21300288: caterpillar_144
+    21300290: caterpillar_145
+    21300292: caterpillar_146
+    21300294: caterpillar_147
+    21300296: caterpillar_148
+    21300298: caterpillar_149
+    21300300: caterpillar_150
+    21300302: caterpillar_151
+    21300304: caterpillar_152
+    21300306: caterpillar_153
+    21300308: caterpillar_154
+    21300310: caterpillar_155
+    21300312: caterpillar_156
+    21300314: caterpillar_157
+    21300316: caterpillar_158
+    21300318: caterpillar_159
+    21300320: caterpillar_160
+    21300322: caterpillar_161
+    21300324: caterpillar_162
+    21300326: caterpillar_163
+    21300328: caterpillar_164
+    21300330: caterpillar_165
+    21300332: caterpillar_166
+    21300334: caterpillar_167
+    21300336: caterpillar_168
+    21300338: caterpillar_169
+    21300340: caterpillar_170
+    21300342: caterpillar_171
+    21300344: caterpillar_172
+    21300346: caterpillar_173
+    21300348: caterpillar_174
+    21300350: caterpillar_175
+    21300352: caterpillar_176
+    21300354: caterpillar_177
+    21300356: caterpillar_178
+    21300358: caterpillar_179
+    21300360: caterpillar_180
+    21300362: caterpillar_181
+    21300364: caterpillar_182
+    21300366: caterpillar_183
+    21300368: caterpillar_184
+    21300370: caterpillar_185
+    21300372: caterpillar_186
+    21300374: caterpillar_187
+    21300376: caterpillar_188
+    21300378: caterpillar_189
+    21300380: caterpillar_190
+    21300382: caterpillar_191
+    21300384: caterpillar_192
+    21300386: caterpillar_193
+    21300388: caterpillar_194
+    21300390: caterpillar_195
+    21300392: caterpillar_196
+    21300394: caterpillar_197
+    21300396: caterpillar_198
+    21300398: caterpillar_199
+    21300400: caterpillar_200
+    21300402: caterpillar_201
+    21300404: caterpillar_202
+    21300406: caterpillar_203
+    21300408: caterpillar_204
+    21300410: caterpillar_205
+    21300412: caterpillar_206
+    21300414: caterpillar_207
+    21300416: caterpillar_208
+    21300418: caterpillar_209
+    21300420: caterpillar_210
+    21300422: caterpillar_211
+    21300424: caterpillar_212
+    21300426: caterpillar_213
+    21300428: caterpillar_214
+    21300430: caterpillar_215
+    21300432: caterpillar_216
+    21300434: caterpillar_217
+    21300436: caterpillar_218
+    21300438: caterpillar_219
+    21300440: caterpillar_220
+    21300442: caterpillar_221
+    21300444: caterpillar_222
+    21300446: caterpillar_223
+    21300448: caterpillar_224
+    21300450: caterpillar_225
+    21300452: caterpillar_226
+    21300454: caterpillar_227
+    21300456: caterpillar_228
+    21300458: caterpillar_229
+    21300460: caterpillar_230
+    21300462: caterpillar_231
+    21300464: caterpillar_232
+    21300466: caterpillar_233
+    21300468: caterpillar_234
+    21300470: caterpillar_235
+    21300472: caterpillar_236
+    21300474: caterpillar_237
+    21300476: caterpillar_238
+    21300478: caterpillar_239
+    21300480: caterpillar_240
+    21300482: caterpillar_241
+    21300484: caterpillar_242
+    21300486: caterpillar_243
+    21300488: caterpillar_244
+    21300490: caterpillar_245
+    21300492: caterpillar_246
+    21300494: caterpillar_247
+    21300496: caterpillar_248
+    21300498: caterpillar_249
+    21300500: caterpillar_250
+    21300502: caterpillar_251
+    21300504: caterpillar_252
+    21300506: caterpillar_253
+    21300508: caterpillar_254
+    21300510: caterpillar_255
+    21300512: caterpillar_256
+    21300514: caterpillar_257
+    21300516: caterpillar_258
+    21300518: caterpillar_259
+    21300520: caterpillar_260
+    21300522: caterpillar_261
+    21300524: caterpillar_262
+    21300526: caterpillar_263
+    21300528: caterpillar_264
+    21300530: caterpillar_265
+    21300532: caterpillar_266
+    21300534: caterpillar_267
+    21300536: caterpillar_268
+    21300538: caterpillar_269
+    21300540: caterpillar_270
+    21300542: caterpillar_271
+    21300544: caterpillar_272
+    21300546: caterpillar_273
+    21300548: caterpillar_274
+    21300550: caterpillar_275
+    21300552: caterpillar_276
+    21300554: caterpillar_277
+    21300556: caterpillar_278
+    21300558: caterpillar_279
+    21300560: caterpillar_280
+    21300562: caterpillar_281
+    21300564: caterpillar_282
+    21300566: caterpillar_283
+    21300568: caterpillar_284
+    21300570: caterpillar_285
+    21300572: caterpillar_286
+    21300574: caterpillar_287
+    21300576: caterpillar_288
+    21300578: caterpillar_289
+    21300580: caterpillar_290
+    21300582: caterpillar_291
+    21300584: caterpillar_292
+    21300586: caterpillar_293
+    21300588: caterpillar_294
+    21300590: caterpillar_295
+    21300592: caterpillar_296
+    21300594: caterpillar_297
+    21300596: caterpillar_298
+    21300598: caterpillar_299
+    21300600: caterpillar_300
+    21300602: caterpillar_301
+    21300604: caterpillar_302
+    21300606: caterpillar_303
+    21300608: caterpillar_304
+    21300610: caterpillar_305
+    21300612: caterpillar_306
+    21300614: caterpillar_307
+    21300616: caterpillar_308
+    21300618: caterpillar_309
+    21300620: caterpillar_310
+    21300622: caterpillar_311
+    21300624: caterpillar_312
+    21300626: caterpillar_313
+    21300628: caterpillar_314
+    21300630: caterpillar_315
+    21300632: caterpillar_316
+    21300634: caterpillar_317
+    21300636: caterpillar_318
+    21300638: caterpillar_319
+    21300640: caterpillar_320
+    21300642: caterpillar_321
+    21300644: caterpillar_322
+    21300646: caterpillar_323
+    21300648: caterpillar_324
+    21300650: caterpillar_325
+    21300652: caterpillar_326
+    21300654: caterpillar_327
+    21300656: caterpillar_328
+    21300658: caterpillar_329
+    21300660: caterpillar_330
+    21300662: caterpillar_331
+    21300664: caterpillar_332
+    21300666: caterpillar_333
+    21300668: caterpillar_334
+    21300670: caterpillar_335
+    21300672: caterpillar_336
+    21300674: caterpillar_337
+    21300676: caterpillar_338
+    21300678: caterpillar_339
+    21300680: caterpillar_340
+    21300682: caterpillar_341
+    21300684: caterpillar_342
+    21300686: caterpillar_343
+    21300688: caterpillar_344
+    21300690: caterpillar_345
+    21300692: caterpillar_346
+    21300694: caterpillar_347
+    21300696: caterpillar_348
+    21300698: caterpillar_349
+    21300700: caterpillar_350
+    21300702: caterpillar_351
+    21300704: caterpillar_352
+    21300706: caterpillar_353
+    21300708: caterpillar_354
+    21300710: caterpillar_355
+    21300712: caterpillar_356
+    21300714: caterpillar_357
+    21300716: caterpillar_358
+    21300718: caterpillar_359
+    21300720: caterpillar_360
+    21300722: caterpillar_361
+    21300724: caterpillar_362
+    21300726: caterpillar_363
+    21300728: caterpillar_364
+    21300730: caterpillar_365
+    21300732: caterpillar_366
+    21300734: caterpillar_367
+    21300736: caterpillar_368
+    21300738: caterpillar_369
+    21300740: caterpillar_370
+    21300742: caterpillar_371
+    21300744: caterpillar_372
+    21300746: caterpillar_373
+    21300748: caterpillar_374
+    21300750: caterpillar_375
+    21300752: caterpillar_376
+    21300754: caterpillar_377
+    21300756: caterpillar_378
+    21300758: caterpillar_379
+    21300760: caterpillar_380
+    21300762: caterpillar_381
+    21300764: caterpillar_382
+    21300766: caterpillar_383
+    21300768: caterpillar_384
+    21300770: caterpillar_385
+    21300772: caterpillar_386
+    21300774: caterpillar_387
+    21300776: caterpillar_388
+    21300778: caterpillar_389
+    21300780: caterpillar_390
+    21300782: caterpillar_391
+    21300784: caterpillar_392
+    21300786: caterpillar_393
+    21300788: caterpillar_394
+    21300790: caterpillar_395
+    21300792: caterpillar_396
+    21300794: caterpillar_397
+    21300796: caterpillar_398
+    21300798: caterpillar_399
+    21300800: caterpillar_400
+    21300802: caterpillar_401
+    21300804: caterpillar_402
+    21300806: caterpillar_403
+    21300808: caterpillar_404
+    21300810: caterpillar_405
+    21300812: caterpillar_406
+    21300814: caterpillar_407
+    21300816: caterpillar_408
+    21300818: caterpillar_409
+    21300820: caterpillar_410
+    21300822: caterpillar_411
+    21300824: caterpillar_412
+    21300826: caterpillar_413
+    21300828: caterpillar_414
+    21300830: caterpillar_415
+    21300832: caterpillar_416
+    21300834: caterpillar_417
+    21300836: caterpillar_418
+    21300838: caterpillar_419
+    21300840: caterpillar_420
+    21300842: caterpillar_421
+    21300844: caterpillar_422
+    21300846: caterpillar_423
+    21300848: caterpillar_424
+    21300850: caterpillar_425
+    21300852: caterpillar_426
+    21300854: caterpillar_427
+    21300856: caterpillar_428
+    21300858: caterpillar_429
+    21300860: caterpillar_430
+    21300862: caterpillar_431
+    21300864: caterpillar_432
+    21300866: caterpillar_433
+    21300868: caterpillar_434
+    21300870: caterpillar_435
+    21300872: caterpillar_436
+    21300874: caterpillar_437
+    21300876: caterpillar_438
+    21300878: caterpillar_439
+    21300880: caterpillar_440
+    21300882: caterpillar_441
+    21300884: caterpillar_442
+    21300886: caterpillar_443
+    21300888: caterpillar_444
+    21300890: caterpillar_445
+    21300892: caterpillar_446
+    21300894: caterpillar_447
+    21300896: caterpillar_448
+    21300898: caterpillar_449
+    21300900: caterpillar_450
+    21300902: caterpillar_451
+    21300904: caterpillar_452
+    21300906: caterpillar_453
+    21300908: caterpillar_454
+    21300910: caterpillar_455
+    21300912: caterpillar_456
+    21300914: caterpillar_457
+    21300916: caterpillar_458
+    21300918: caterpillar_459
+    21300920: caterpillar_460
+    21300922: caterpillar_461
+    21300924: caterpillar_462
+    21300926: caterpillar_463
+    21300928: caterpillar_464
+    21300930: caterpillar_465
+    21300932: caterpillar_466
+    21300934: caterpillar_467
+    21300936: caterpillar_468
+    21300938: caterpillar_469
+    21300940: caterpillar_470
+    21300942: caterpillar_471
+    21300944: caterpillar_472
+    21300946: caterpillar_473
+    21300948: caterpillar_474
+    21300950: caterpillar_475
+    21300952: caterpillar_476
+    21300954: caterpillar_477
+    21300956: caterpillar_478
+    21300958: caterpillar_479
+    21300960: caterpillar_480
+    21300962: caterpillar_481
+    21300964: caterpillar_482
+    21300966: caterpillar_483
+    21300968: caterpillar_484
+    21300970: caterpillar_485
+    21300972: caterpillar_486
+    21300974: caterpillar_487
+    21300976: caterpillar_488
+    21300978: caterpillar_489
+    21300980: caterpillar_490
+    21300982: caterpillar_491
+    21300984: caterpillar_492
+    21300986: caterpillar_493
+    21300988: caterpillar_494
+    21300990: caterpillar_495
+    21300992: caterpillar_496
+    21300994: caterpillar_497
+    21300996: caterpillar_498
+    21300998: caterpillar_499
+    21301000: caterpillar_500
+    21301002: caterpillar_501
+    21301004: caterpillar_502
+    21301006: caterpillar_503
+    21301008: caterpillar_504
+    21301010: caterpillar_505
+    21301012: caterpillar_506
+    21301014: caterpillar_507
+    21301016: caterpillar_508
+    21301018: caterpillar_509
+    21301020: caterpillar_510
+    21301022: caterpillar_511
+    21301024: caterpillar_512
+    21301026: caterpillar_513
+    21301028: caterpillar_514
+    21301030: caterpillar_515
+    21301032: caterpillar_516
+    21301034: caterpillar_517
+    21301036: caterpillar_518
+    21301038: caterpillar_519
+    21301040: caterpillar_520
+    21301042: caterpillar_521
+    21301044: caterpillar_522
+    21301046: caterpillar_523
+    21301048: caterpillar_524
+    21301050: caterpillar_525
+    21301052: caterpillar_526
+    21301054: caterpillar_527
+    21301056: caterpillar_528
+    21301058: caterpillar_529
+    21301060: caterpillar_530
+    21301062: caterpillar_531
+    21301064: caterpillar_532
+    21301066: caterpillar_533
+    21301068: caterpillar_534
+    21301070: caterpillar_535
+    21301072: caterpillar_536
+    21301074: caterpillar_537
+    21301076: caterpillar_538
+    21301078: caterpillar_539
+    21301080: caterpillar_540
+    21301082: caterpillar_541
+    21301084: caterpillar_542
+    21301086: caterpillar_543
+    21301088: caterpillar_544
+    21301090: caterpillar_545
+    21301092: caterpillar_546
+    21301094: caterpillar_547
+    21301096: caterpillar_548
+    21301098: caterpillar_549
+    21301100: caterpillar_550
+    21301102: caterpillar_551
+    21301104: caterpillar_552
+    21301106: caterpillar_553
+    21301108: caterpillar_554
+    21301110: caterpillar_555
+    21301112: caterpillar_556
+    21301114: caterpillar_557
+    21301116: caterpillar_558
+    21301118: caterpillar_559
+    21301120: caterpillar_560
+    21301122: caterpillar_561
+    21301124: caterpillar_562
+    21301126: caterpillar_563
+    21301128: caterpillar_564
+    21301130: caterpillar_565
+    21301132: caterpillar_566
+    21301134: caterpillar_567
+    21301136: caterpillar_568
+    21301138: caterpillar_569
+    21301140: caterpillar_570
+    21301142: caterpillar_571
+    21301144: caterpillar_572
+    21301146: caterpillar_573
+    21301148: caterpillar_574
+    21301150: caterpillar_575
+    21301152: caterpillar_576
+    21301154: caterpillar_577
+    21301156: caterpillar_578
+    21301158: caterpillar_579
+    21301160: caterpillar_580
+    21301162: caterpillar_581
+    21301164: caterpillar_582
+    21301166: caterpillar_583
+    21301168: caterpillar_584
+    21301170: caterpillar_585
+    21301172: caterpillar_586
+    21301174: caterpillar_587
+    21301176: caterpillar_588
+    21301178: caterpillar_589
+    21301180: caterpillar_590
+    21301182: caterpillar_591
+    21301184: caterpillar_592
+    21301186: caterpillar_593
+    21301188: caterpillar_594
+    21301190: caterpillar_595
+    21301192: caterpillar_596
+    21301194: caterpillar_597
+    21301196: caterpillar_598
+    21301198: caterpillar_599
+    21301200: caterpillar_600
+    21301202: caterpillar_601
+    21301204: caterpillar_602
+    21301206: caterpillar_603
+    21301208: caterpillar_604
+    21301210: caterpillar_605
+    21301212: caterpillar_606
+    21301214: caterpillar_607
+    21301216: caterpillar_608
+    21301218: caterpillar_609
+    21301220: caterpillar_610
+    21301222: caterpillar_611
+    21301224: caterpillar_612
+    21301226: caterpillar_613
+    21301228: caterpillar_614
+    21301230: caterpillar_615
+    21301232: caterpillar_616
+    21301234: caterpillar_617
+    21301236: caterpillar_618
+    21301238: caterpillar_619
+    21301240: caterpillar_620
+    21301242: caterpillar_621
+    21301244: caterpillar_622
+    21301246: caterpillar_623
+    21301248: caterpillar_624
+    21301250: caterpillar_625
+    21301252: caterpillar_626
+    21301254: caterpillar_627
+    21301256: caterpillar_628
+    21301258: caterpillar_629
+    21301260: caterpillar_630
+    21301262: caterpillar_631
+    21301264: caterpillar_632
+    21301266: caterpillar_633
+    21301268: caterpillar_634
+    21301270: caterpillar_635
+    21301272: caterpillar_636
+    21301274: caterpillar_637
+    21301276: caterpillar_638
+    21301278: caterpillar_639
+    21301280: caterpillar_640
+    21301282: caterpillar_641
+    21301284: caterpillar_642
+    21301286: caterpillar_643
+    21301288: caterpillar_644
+    21301290: caterpillar_645
+    21301292: caterpillar_646
+    21301294: caterpillar_647
+    21301296: caterpillar_648
+    21301298: caterpillar_649
+    21301300: caterpillar_650
+    21301302: caterpillar_651
+    21301304: caterpillar_652
+    21301306: caterpillar_653
+    21301308: caterpillar_654
+    21301310: caterpillar_655
+    21301312: caterpillar_656
+    21301314: caterpillar_657
+    21301316: caterpillar_658
+    21301318: caterpillar_659
+    21301320: caterpillar_660
+    21301322: caterpillar_661
+    21301324: caterpillar_662
+    21301326: caterpillar_663
+    21301328: caterpillar_664
+    21301330: caterpillar_665
+    21301332: caterpillar_666
+    21301334: caterpillar_667
+    21301336: caterpillar_668
+    21301338: caterpillar_669
+    21301340: caterpillar_670
+    21301342: caterpillar_671
+    21301344: caterpillar_672
+    21301346: caterpillar_673
+    21301348: caterpillar_674
+    21301350: caterpillar_675
+    21301352: caterpillar_676
+    21301354: caterpillar_677
+    21301356: caterpillar_678
+    21301358: caterpillar_679
+    21301360: caterpillar_680
+    21301362: caterpillar_681
+    21301364: caterpillar_682
+    21301366: caterpillar_683
+    21301368: caterpillar_684
+    21301370: caterpillar_685
+    21301372: caterpillar_686
+    21301374: caterpillar_687
+    21301376: caterpillar_688
+    21301378: caterpillar_689
+    21301380: caterpillar_690
+    21301382: caterpillar_691
+    21301384: caterpillar_692
+    21301386: caterpillar_693
+    21301388: caterpillar_694
+    21301390: caterpillar_695
+    21301392: caterpillar_696
+    21301394: caterpillar_697
+    21301396: caterpillar_698
+    21301398: caterpillar_699
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.33
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: caterpillar_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_12
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_14
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_15
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_16
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_17
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_18
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_19
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_20
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_21
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_22
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_23
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_24
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_25
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_26
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_27
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_28
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_29
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_30
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 881
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_32
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_33
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_34
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_35
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_36
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_37
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_38
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_39
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_40
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_41
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_42
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_43
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_44
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_45
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_46
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_47
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_48
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_49
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_50
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_51
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_52
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_53
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_54
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_55
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_56
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_57
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_58
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_59
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_60
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_61
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 841
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_62
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_63
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_64
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_65
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_66
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_67
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_68
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_69
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_70
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_71
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_72
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_73
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_74
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_75
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_76
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_77
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_78
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_79
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_80
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_81
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_82
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_83
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_84
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_85
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_86
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_87
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_88
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_89
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_90
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_91
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_92
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 801
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_93
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_94
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_95
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_96
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_97
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_98
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 761
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_100
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 761
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_101
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_102
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_103
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_104
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_105
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_106
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_107
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_108
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_109
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_110
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_111
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_112
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_113
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_114
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_115
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_116
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_117
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_118
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_119
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_120
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_121
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_122
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_123
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 761
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_124
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_125
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_126
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_127
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_128
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_129
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_130
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_131
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_132
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_133
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_134
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_135
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_136
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_137
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_138
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_139
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_140
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_141
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_142
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_143
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_144
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_145
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_146
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_147
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_148
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_149
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_150
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_151
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_152
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_153
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_154
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 721
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_155
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_156
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_157
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_158
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_159
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_160
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_161
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_162
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_163
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_164
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_165
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_166
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_167
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_168
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_169
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_170
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_171
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_172
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_173
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_174
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_175
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_176
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_177
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_178
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_179
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_180
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_181
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_182
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_183
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_184
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_185
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 681
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_186
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_187
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 641
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_188
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_189
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_190
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_191
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_192
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_193
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_194
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_195
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_196
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_197
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_198
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_199
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_200
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_201
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_202
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_203
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_204
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_205
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_206
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_207
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_208
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_209
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_210
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_211
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_212
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_213
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_214
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_215
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_216
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 641
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_217
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_218
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_219
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_220
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_221
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_222
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_223
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_224
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_225
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_226
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_227
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_228
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_229
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_230
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_231
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_232
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_233
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_234
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_235
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_236
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_237
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_238
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_239
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_240
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_241
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_242
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_243
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_244
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_245
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_246
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_247
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 601
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_248
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_249
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_250
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_251
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_252
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_253
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_254
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_255
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_256
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_257
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_258
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_259
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_260
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_261
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_262
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_263
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_264
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_265
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_266
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_267
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_268
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_269
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_270
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_271
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_272
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_273
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_274
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_275
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_276
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_277
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_278
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 561
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_279
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_280
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_281
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_282
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_283
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_284
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_285
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_286
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_287
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_288
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_289
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_290
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_291
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_292
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_293
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_294
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_295
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_296
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_297
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_298
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_299
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_300
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_301
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_302
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_303
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_304
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_305
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_306
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_307
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_308
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_309
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 521
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_310
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_311
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_312
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_313
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_314
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_315
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_316
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_317
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_318
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_319
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_320
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_321
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_322
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_323
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_324
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_325
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_326
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_327
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_328
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_329
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_330
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_331
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_332
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_333
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_334
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_335
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_336
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_337
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_338
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_339
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 481
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_340
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 481
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_341
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 441
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_342
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 441
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_343
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_344
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 441
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_345
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_346
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_347
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_348
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_349
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_350
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_351
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_352
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_353
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_354
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_355
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_356
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_357
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_358
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_359
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_360
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_361
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_362
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_363
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_364
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_365
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_366
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_367
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_368
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_369
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_370
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_371
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 441
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_372
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_373
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_374
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_375
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_376
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_377
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_378
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_379
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_380
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_381
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_382
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_383
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_384
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_385
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_386
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_387
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_388
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_389
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_390
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_391
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_392
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_393
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_394
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_395
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_396
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_397
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_398
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_399
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_400
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_401
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_402
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 401
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_403
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_404
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 361
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_405
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 361
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_406
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 361
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_407
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 361
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_408
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 361
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_409
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 361
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_410
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 361
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_411
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 361
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_412
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 361
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 18.5}
+        - {x: -16, y: 3.5}
+        - {x: -16, y: -10.5}
+        - {x: -12, y: -18.5}
+        - {x: 15, y: -18.5}
+        - {x: 16, y: -13.5}
+        - {x: 16, y: 18.5}
+    - name: caterpillar_413
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 361
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_414
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 361
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_415
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 360
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_416
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 361
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_417
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 361
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_418
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 362
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_419
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 362
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_420
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 361
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_421
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 361
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_422
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 361
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_423
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 361
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_424
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 361
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_425
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 361
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_426
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 361
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_427
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 361
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_428
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 361
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_429
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 361
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_430
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 361
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_431
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 361
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_432
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 361
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_433
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 361
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_434
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_435
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_436
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_437
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_438
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_439
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_440
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_441
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_442
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_443
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_444
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_445
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_446
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_447
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_448
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_449
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_450
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_451
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_452
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_453
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_454
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_455
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_456
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_457
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_458
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_459
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_460
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_461
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_462
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_463
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_464
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 321
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_465
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 281
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_466
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 281
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_467
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 281
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_468
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 281
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_469
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 281
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_470
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 281
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_471
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 281
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_472
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 281
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_473
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 281
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_474
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 281
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_475
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 281
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_476
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 281
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_477
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 281
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_478
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 281
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_479
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 281
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_480
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 281
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_481
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 281
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_482
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 281
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_483
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 281
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_484
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 281
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_485
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 281
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_486
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 281
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_487
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 281
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_488
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 281
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_489
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 281
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_490
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 281
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_491
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 281
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_492
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 281
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_493
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 281
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_494
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 281
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_495
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 281
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_496
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_497
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 241
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_498
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 241
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_499
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 241
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_500
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 241
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_501
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 241
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_502
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 241
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_503
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 241
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_504
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 241
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_505
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 241
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 18}
+        - {x: -16, y: 8}
+        - {x: -16, y: -12}
+        - {x: -14, y: -18}
+        - {x: 11, y: -18}
+        - {x: 16, y: -10}
+        - {x: 16, y: 18}
+    - name: caterpillar_506
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 241
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 18}
+        - {x: -16, y: 6}
+        - {x: -16, y: -10}
+        - {x: -13, y: -18}
+        - {x: 12, y: -18}
+        - {x: 16, y: -10}
+        - {x: 16, y: 18}
+    - name: caterpillar_507
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 241
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 17.5}
+        - {x: -16, y: 8.5}
+        - {x: -16, y: -12.5}
+        - {x: -12, y: -17.5}
+        - {x: 13, y: -17.5}
+        - {x: 16, y: -10.5}
+        - {x: 16, y: 17.5}
+    - name: caterpillar_508
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 241
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 17.5}
+        - {x: -16, y: 5.5}
+        - {x: -16, y: -13.5}
+        - {x: -15, y: -17.5}
+        - {x: 16, y: -17.5}
+        - {x: 16, y: 17.5}
+    - name: caterpillar_509
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 241
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 17.5}
+        - {x: -16, y: 5.5}
+        - {x: -16, y: -13.5}
+        - {x: -15, y: -17.5}
+        - {x: 16, y: -17.5}
+        - {x: 16, y: 17.5}
+    - name: caterpillar_510
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 241
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 17.5}
+        - {x: -16, y: 5.5}
+        - {x: -16, y: -13.5}
+        - {x: -15, y: -17.5}
+        - {x: 16, y: -17.5}
+        - {x: 16, y: 17.5}
+    - name: caterpillar_511
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 241
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 17.5}
+        - {x: -16, y: 8.5}
+        - {x: -16, y: -17.5}
+        - {x: 16, y: -17.5}
+        - {x: 16, y: 17.5}
+    - name: caterpillar_512
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 241
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 17.5}
+        - {x: -16, y: 7.5}
+        - {x: -16, y: -12.5}
+        - {x: -14, y: -17.5}
+        - {x: 12, y: -17.5}
+        - {x: 16, y: -15.5}
+        - {x: 16, y: 17.5}
+    - name: caterpillar_513
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 240
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 18.5}
+        - {x: -16, y: 6.5}
+        - {x: -16, y: -11.5}
+        - {x: -14, y: -16.5}
+        - {x: -12, y: -18.5}
+        - {x: 10, y: -18.5}
+        - {x: 16, y: -15.5}
+        - {x: 16, y: 18.5}
+    - name: caterpillar_514
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 241
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_515
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 241
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_516
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 241
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_517
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 241
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_518
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 241
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_519
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 241
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_520
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 241
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_521
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 241
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_522
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 241
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_523
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 241
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_524
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 241
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_525
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 241
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 18.5}
+        - {x: -14, y: 5.5}
+        - {x: -16, y: 3.5}
+        - {x: -16, y: -9.5}
+        - {x: -13, y: -16.5}
+        - {x: -11, y: -18.5}
+        - {x: 12, y: -18.5}
+        - {x: 16, y: -10.5}
+        - {x: 16, y: 18.5}
+    - name: caterpillar_526
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 241
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 18.5}
+        - {x: -16, y: 5.5}
+        - {x: -16, y: -10.5}
+        - {x: -13, y: -16.5}
+        - {x: -11, y: -18.5}
+        - {x: 14, y: -18.5}
+        - {x: 16, y: -13.5}
+        - {x: 16, y: 18.5}
+    - name: caterpillar_527
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_528
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_529
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_530
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_531
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_532
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_533
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_534
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_535
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_536
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_537
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_538
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_539
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_540
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_541
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_542
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_543
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_544
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_545
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_546
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_547
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_548
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_549
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_550
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_551
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_552
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_553
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_554
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_555
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_556
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_557
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 201
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_558
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_559
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_560
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_561
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_562
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_563
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_564
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_565
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_566
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_567
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_568
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_569
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_570
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_571
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_572
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_573
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_574
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_575
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_576
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_577
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_578
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_579
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_580
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_581
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_582
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_583
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_584
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_585
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_586
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_587
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_588
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 161
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_589
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_590
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_591
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_592
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_593
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_594
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_595
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_596
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_597
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_598
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_599
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_600
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_601
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_602
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_603
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_604
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_605
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_606
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_607
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_608
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_609
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_610
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_611
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_612
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_613
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_614
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 121
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_615
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_616
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 121
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_617
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_618
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_619
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 121
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_620
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_621
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_622
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_623
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_624
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_625
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_626
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_627
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_628
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 81
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_629
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 81
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_630
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_631
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_632
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_633
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_634
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_635
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_636
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_637
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_638
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_639
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_640
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_641
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_642
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_643
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_644
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_645
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_646
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_647
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_648
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_649
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_650
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 81
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_651
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_652
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_653
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_654
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_655
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_656
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_657
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_658
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_659
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_660
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_661
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_662
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_663
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_664
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_665
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_666
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_667
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_668
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_669
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_670
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_671
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_672
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_673
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_674
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_675
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_676
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_677
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_678
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_679
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 41
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_680
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 41
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_681
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 41
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_682
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_683
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_684
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_685
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_686
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_687
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_688
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_689
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_690
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_691
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_692
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_693
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_694
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_695
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_696
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_697
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_698
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: caterpillar_699
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
