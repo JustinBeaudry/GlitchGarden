@@ -40,7 +40,7 @@ public class LoseController : MonoBehaviour
 
 	void OnSettings ()
 	{
-		GameManager.SwitchScene ("Settings");
+		GameManager.LoadSceneAdditive("Settings");
 	}
 
 	void OnQuit ()

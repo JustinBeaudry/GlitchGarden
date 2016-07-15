@@ -7,12 +7,13 @@ public class SettingsManager : MonoBehaviour
 	public const float DEFUALT_MUSIC_VOLUME = 0.4f;
 	public const float DEFAULT_GAME_VOLUME = 0.7f;
 	public const int DEFAULT_DIFFICULTY = 2;
-	public const string DEFAULT_LEVEL = "Level_01";
+	public const int DEFAULT_LEVEL = 1;
 
 	public static float MusicVolume = DEFUALT_MUSIC_VOLUME;
 	public static float GameVolume = DEFAULT_GAME_VOLUME;
 	public static int Difficulty = DEFAULT_DIFFICULTY;
-	public static string CurrentLevel = DEFAULT_LEVEL;
+	public static int CurrentLevel = DEFAULT_LEVEL;
+	public static int Levels = 3;
 
 	protected void Start ()
 	{
@@ -57,4 +58,17 @@ public class SettingsManager : MonoBehaviour
 	
 	}
 
+	public static void NextLevel ()
+	{
+		if (CurrentLevel + 1 < Levels) {
+			CurrentLevel += 1;
+		}
+	}
+
+	public static void SetLevel (int level)
+	{
+		if (level < Levels) {
+			CurrentLevel = level;
+		}
+	}
 }
