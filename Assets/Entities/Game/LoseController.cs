@@ -35,12 +35,12 @@ public class LoseController : MonoBehaviour
 
 	void OnRetry ()
 	{
-		GameManager.SwitchScene (SettingsManager.CurrentLevel);
+		GameManager.SwitchScene ("Level_0" + SettingsManager.CurrentLevel.ToString ());
 	}
 
 	void OnSettings ()
 	{
-		GameManager.LoadSceneAdditive("Settings");
+		GameManager.LoadSceneAdditive ("Settings");
 	}
 
 	void OnQuit ()

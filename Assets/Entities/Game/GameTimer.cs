@@ -28,14 +28,14 @@ public class GameTimer : MonoBehaviour
 		string minutes = Mathf.Abs (Mathf.Floor (TimeRemaining / 60)).ToString ("00");
 		string seconds = Mathf.Abs (Mathf.Floor (TimeRemaining % 60)).ToString ("00");
 
-		text.text = minutes + ":" + seconds;
-
 		if (Mathf.Approximately (TimeRemaining, 0) && !GameOver) {
 			GameOver = true;
 			musicPlayer.StopAudio ();
 			audioSource.Play ();
 			Invoke ("Win", audioSource.clip.length);
 		}
+
+		text.text = minutes + ":" + seconds;
 	}
 
 	private void Win ()

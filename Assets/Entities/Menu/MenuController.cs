@@ -34,7 +34,7 @@ public class MenuController : MonoBehaviour
 
 	void OnStart ()
 	{
-		GameManager.SwitchScene (SettingsManager.CurrentLevel);
+		GameManager.SwitchScene ("Level_0" + SettingsManager.CurrentLevel.ToString ());
 	}
 
 	void OnSettings ()

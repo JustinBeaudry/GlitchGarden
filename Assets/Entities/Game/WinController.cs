@@ -32,7 +32,7 @@ public class WinController : MonoBehaviour
 
 	void OnRetry ()
 	{
-		GameManager.SwitchScene (SettingsManager.CurrentLevel);
+		GameManager.SwitchScene ("Level_0" + SettingsManager.CurrentLevel.ToString ());
 	}
 
 	void OnSettings ()
